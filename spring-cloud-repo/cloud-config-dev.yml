@@ -1,3 +1,1 @@
-server:
-  application:
-    name:dev-test
+catdog:hello dev
