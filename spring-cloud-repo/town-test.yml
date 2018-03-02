@@ -1,4 +1,10 @@
 town: hello town config
+town:
+    sever:
+        config-port: 9001
+        eureka-port: 9002
+        zuul-port: 9003
+
 spring:
     datasource:
         name: test
